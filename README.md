@@ -16,6 +16,7 @@ abcretailerfunctionapp-st10445866-eta0aje6b2bhaabv.southafricanorth-01.azurewebs
 (ChatGPT, 2025)
 
 Bibliography
+
 Microsoft. (2025). Event Hubs. Retrieved from Microsoft: https://azure.microsoft.com/en-us/products/event-hubs
 
 Akamai. (2025). What Is an Event Bus? Retrieved from Akamai: https://www.akamai.com/glossary/what-is-an-event-bus
